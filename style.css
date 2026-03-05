@@ -847,7 +847,7 @@ footer span::selection { /* Hide highlighting footer text when clicking button *
     }
 
     .skills ul {
-        overflow: auto;
+        overflow-x: scroll;
         gap: 0.25rem;
         padding: 1rem;
     }
