@@ -19,10 +19,10 @@ new Swiper('.card-wrapper', {
         0: {
             slidesPerView: 1
         },
-        768: {
+        1050: {
             slidesPerView: 2
         },
-        1024: {
+        1400: {
             slidesPerView: 3
         },
     }
