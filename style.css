@@ -159,7 +159,7 @@ header a.active {
     border-radius: 0.75rem;
     font-size: 1.1rem;
     font-family: 'JetBrains Mono', monospace;
-    color: var(--text-muted);
+    color: var(--highlight);
     border: 1px solid var(--border);
 }
 
@@ -467,7 +467,7 @@ header a.active {
 .project-stack h3 {
     font-family: 'JetBrains Mono', monospace;
     font-size: 0.75rem;
-    color: var(--text-muted);
+    color: var(--highlight);
     letter-spacing: 0.06em;
     margin-bottom: 1rem;
 }
